@@ -1,0 +1,6 @@
+{
+  "name": "NEET AI Pro",
+  "description": "Premium NEET exam preparation app with step-by-step AI solutions and doubt-solving tutor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
